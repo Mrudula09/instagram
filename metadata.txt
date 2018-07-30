@@ -1,0 +1,6 @@
+user_table 6
+post_table 6
+feed_table 6
+user_table 6
+post_table 6
+feed_table 6
